@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>wdempsey.github.io/index.html at master · wdempsey/wdempsey.github.io</title>
+  <title>wdempsey.github.io/research.md at master · wdempsey/wdempsey.github.io</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -36,10 +36,10 @@
     <meta content="https://avatars2.githubusercontent.com/u/4594115?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="wdempsey/wdempsey.github.io" property="og:title" /><meta content="https://github.com/wdempsey/wdempsey.github.io" property="og:url" /><meta content="wdempsey.github.io - A content-first, sliding sidebar theme for Jekyll." property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTgzOTU0MTQyOjVjZjFkMGY3ZjIxZWQ5MmE2NGM0NGNlNjAyZmNmZGFjNmU2OThlNDVlMWVjYThlOTAzODdlNjQ4OWNkMjE5YjA=--d5b534405bc41631bf8d8dd648e8df0189ba37d6">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTgzOTU0MTQyOmRkM2EyMjA3MjQ5Y2MyYjMzYjBkZTRkYTc2MGYwNmE2OTAxYjc5YTU4MjljZWE4YmM5YzJmN2E3YTE2YTgxNjM=--6ae018b734ee4b2abbe2a2a791a38507dfd81c25">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="C6E7:5DAC:6A05B:9D7C2:5953CF21" data-pjax-transient>
+  <meta name="request-id" content="C700:5DAC:6B6E2:9EED8:5953CF33" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -48,7 +48,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="C6E7:5DAC:6A05B:9D7C2:5953CF21" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="16825473" name="octolytics-actor-id" /><meta content="kgreenewald" name="octolytics-actor-login" /><meta content="f79bf67e3831c237e7f43e06c513ce29532e831b8bd86bd028970baf026e408c" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="C700:5DAC:6B6E2:9EED8:5953CF33" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="16825473" name="octolytics-actor-id" /><meta content="kgreenewald" name="octolytics-actor-login" /><meta content="f79bf67e3831c237e7f43e06c513ce29532e831b8bd86bd028970baf026e408c" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -63,7 +63,7 @@
   <meta name="user-login" content="kgreenewald">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZGQxODllYWEwM2U2YTA0MjQyZjczYTdiNjliMzQ3OTVmYWY0MTFhZjM1NWI0MzhmYzFmYTEzNzBhYzYzYTZiZXx7InJlbW90ZV9hZGRyZXNzIjoiMTA3LjQuODIuMjE4IiwicmVxdWVzdF9pZCI6IkM2RTc6NURBQzo2QTA1Qjo5RDdDMjo1OTUzQ0YyMSIsInRpbWVzdGFtcCI6MTQ5ODY2NDczOCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="ZDUwYWZjYThjN2FkYjM4ZTBhMjdkMTZlMWI4NDI0MWUzYTdjZjFmNzNkNGYyZGIxMjU5NDc2ZjdjZmQ5NTczN3x7InJlbW90ZV9hZGRyZXNzIjoiMTA3LjQuODIuMjE4IiwicmVxdWVzdF9pZCI6IkM3MDA6NURBQzo2QjZFMjo5RUVEODo1OTUzQ0YzMyIsInRpbWVzdGFtcCI6MTQ5ODY2NDc2MywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
 
   <meta name="html-safe-nonce" content="7bb37001f55786a354a59a4cd97ddb3f6906b649">
@@ -79,7 +79,7 @@
   <meta content="4594115" name="octolytics-dimension-user_id" /><meta content="wdempsey" name="octolytics-dimension-user_login" /><meta content="35923378" name="octolytics-dimension-repository_id" /><meta content="wdempsey/wdempsey.github.io" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="true" name="octolytics-dimension-repository_is_fork" /><meta content="15489219" name="octolytics-dimension-repository_parent_id" /><meta content="poole/lanyon" name="octolytics-dimension-repository_parent_nwo" /><meta content="15489219" name="octolytics-dimension-repository_network_root_id" /><meta content="poole/lanyon" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/wdempsey/wdempsey.github.io/blob/master/index.html" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/wdempsey/wdempsey.github.io/blob/master/research.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -121,7 +121,7 @@
         <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/wdempsey/wdempsey.github.io/search" class="js-site-search-form" data-scoped-search-url="/wdempsey/wdempsey.github.io/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/wdempsey/wdempsey.github.io/blob/master/index.html" class="header-search-scope no-underline">This repository</a>
+        <a href="/wdempsey/wdempsey.github.io/blob/master/research.md" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -235,7 +235,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/Ae2BRxAMWFSf4jgqNSvl6cpFoBLLLrRtQQrirZebsIGhXV1fN9yC0jLUNpJwzUejdV3ifF8AYWQbujqZXWg3g==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="aOm5eVJB34ELKzFxZX/inNpn8Wm/aLb1ksypIwmGJ4CSa3oJMt6c6xGf6UuEaHgV8JuQYAU4DaG3pmpD2q3pnA==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -245,7 +245,7 @@
 </ul>
 
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QB7e7eTBm00/9msDLk5QFLN2/PtndaBrscceW7oVb2e6nB2dhF7YJyVCsznPWcqdmYqd8t0lGz+Urd07aT6hew==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4Vg+kWv00aVlpLuYO/XvG4igf7nEairBTS6GXw89sUAb2v3hC2uSz38QY6La4nWSolwesH46kZVoREU/3BZ/XA==" /></div>
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
         Sign out
       </button>
@@ -277,7 +277,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="N8aNgzv0S69AVrD2qg2UoqtcXY2DOhMqqYnPDlRCqrfDe/fORacjoaAHrJp4wG03vNpaJKz916MCuDUw/CRboA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="35923378" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="deNw8vVZY+4Uo1Kyh8UHi5vsljv6RvLF6p2hHziie5eBXgq/iwoL4PTyTt5VCP4ejGqRktWBNkxBrFshkMSKgA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="35923378" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/wdempsey/wdempsey.github.io/subscription"
@@ -356,7 +356,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/wdempsey/wdempsey.github.io/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zSXbrjS3migaxusaLWvZZYcGwDde0t0tsEi3UlFwo1urZoK1xd/lw+zVVednGxukza0qoLnRy46bEVTpCT+2Xg==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/wdempsey/wdempsey.github.io/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Djz5Kmu3wvnIIXM3hvFIFP+yAENs0a0IPwYUl46CfQNof6Axmt+9Ej4yzcrMgYrVtRnq1IvSu6sUX/cs1s1oBg==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -370,7 +370,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/wdempsey/wdempsey.github.io/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ZITDO7hT3r9nNe2G9CmaFxMiMZTbCOPTJkCk/u9CeDhCurwtRGgwgbiB+kyc4Q2+4HVQtWjsl0Qq2gX6+arYJw==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/wdempsey/wdempsey.github.io/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xPrPtBjCLVguVj1ikXd7gUhQTbrAJdHhIoOt5evhOTHixLCi5PnDZvHiKqj5v+wouwcsm3PBpXYuGQzh/QmZLg==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -483,9 +483,9 @@
   <div class="repository-content">
 
     
-  <a href="/wdempsey/wdempsey.github.io/blob/378730c404767a1ada4f7af16684fa70f0d0c235/index.html" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/wdempsey/wdempsey.github.io/blob/378730c404767a1ada4f7af16684fa70f0d0c235/research.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:6b7b5efb4d130accdb1fc3fa8ce3f24a -->
+  <!-- blob contrib key: blob_contributors:v21:505fc79693c440b517324f0dcf82b6f1 -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -527,7 +527,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/wdempsey/wdempsey.github.io/blob/gh-pages/index.html"
+               href="/wdempsey/wdempsey.github.io/blob/gh-pages/research.md"
                data-name="gh-pages"
                data-skip-pjax="true"
                rel="nofollow">
@@ -537,7 +537,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/wdempsey/wdempsey.github.io/blob/master/index.html"
+               href="/wdempsey/wdempsey.github.io/blob/master/research.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -556,7 +556,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/wdempsey/wdempsey.github.io/tree/v1.0.0/index.html"
+              href="/wdempsey/wdempsey.github.io/tree/v1.0.0/research.md"
               data-name="v1.0.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -584,12 +584,12 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/wdempsey/wdempsey.github.io"><span>wdempsey.github.io</span></a></span></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/wdempsey/wdempsey.github.io"><span>wdempsey.github.io</span></a></span></span><span class="separator">/</span><strong class="final-path">research.md</strong>
     </div>
   </div>
 
 
-  <include-fragment class="commit-tease" src="/wdempsey/wdempsey.github.io/contributors/master/index.html">
+  <include-fragment class="commit-tease" src="/wdempsey/wdempsey.github.io/contributors/master/research.md">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -604,24 +604,24 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/wdempsey/wdempsey.github.io/raw/master/index.html" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/wdempsey/wdempsey.github.io/blame/master/index.html" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/wdempsey/wdempsey.github.io/commits/master/index.html" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/wdempsey/wdempsey.github.io/raw/master/research.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/wdempsey/wdempsey.github.io/blame/master/research.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/wdempsey/wdempsey.github.io/commits/master/research.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="github-mac://openRepo/https://github.com/wdempsey/wdempsey.github.io?branch=master&amp;filepath=index.html"
+           href="github-mac://openRepo/https://github.com/wdempsey/wdempsey.github.io?branch=master&amp;filepath=research.md"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:mac">
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/wdempsey/wdempsey.github.io/edit/master/index.html" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1fZU0VLGOsckAAGuPzxHp3D+2SPbQ8AkJzoLw79kvAjonocC71jhv1mGWx4kaFrkn1Yyaa/kVhAnxlMyNbAW3w==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/wdempsey/wdempsey.github.io/edit/master/research.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="izVqFRuJLAvuja3ngIQPbqhOIh/tgZGcJ2ywLmm8uLQBR6B2fzH0RVHLb4Fo1Cy1wR+UmxDl12YP+6EHSZeWPg==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/wdempsey/wdempsey.github.io/delete/master/index.html" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="LDOVT0wJ3heSyGsDniJwr3csFsG8R2MyWkqrdLzLw5+7fkfvD2d4d1sm4lqePRww5AEc2eVj5wqbtu211txDkA==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/wdempsey/wdempsey.github.io/delete/master/research.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="qrEmynkwAKDksRQq0ExSgRRJC1I1BLY2v4dafBEYNnSEvM6ffPk6V16/CRV0Dg05PoZa9Dz2VzBocB/FR+Y6cw==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete the file in your fork of this project" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -629,371 +629,61 @@
 </form>  </div>
 
   <div class="file-info">
-      86 lines (68 sloc)
+      29 lines (22 sloc)
       <span class="file-info-divider"></span>
-    2.35 KB
+    2.32 KB
   </div>
 </div>
 
     
+  <div id="readme" class="readme blob instapaper_body">
+    <article class="markdown-body entry-content" itemprop="text"><table data-table-type="yaml-metadata">
+  <thead>
+  <tr>
+  <th>layout</th>
 
-  <div itemprop="text" class="blob-wrapper data type-html">
-      <table class="highlight tab-size js-file-line-container" data-tab-size="2">
-      <tr>
-        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">---</td>
-      </tr>
-      <tr>
-        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">layout: default</td>
-      </tr>
-      <tr>
-        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line">title: About Me</td>
-      </tr>
-      <tr>
-        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">---</td>
-      </tr>
-      <tr>
-        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line">My name is Walter Dempsey; I work in the areas of applied and theoretical statistics, and more recently on various machine learning and data science problems.</td>
-      </tr>
-      <tr>
-        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">section</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">h1</span>&gt; Contact &lt;/<span class="pl-ent">h1</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">p</span>&gt; Email: wdem@umich.edu</td>
-      </tr>
-      <tr>
-        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">ul</span> <span class="pl-e">style</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>list-style-type:none<span class="pl-pds">&quot;</span></span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">li</span>&gt; Mailing address:&lt;/<span class="pl-ent">li</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">li</span>&gt; University of Michigan&lt;/<span class="pl-ent">li</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">li</span>&gt; Department of Statistics&lt;/<span class="pl-ent">li</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">li</span>&gt; 311 West Hall&lt;/<span class="pl-ent">li</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">li</span>&gt; 1085 South University Avenue &lt;/<span class="pl-ent">li</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">li</span>&gt; Ann Arbor MI 48109 &lt;/<span class="pl-ent">li</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">ul</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">p</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">section</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">section</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">h1</span>&gt; Research Interests &lt;/<span class="pl-ent">h1</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line">  My research interests are in developing and analysing methods for</td>
-      </tr>
-      <tr>
-        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line">  joint modeling of longitudinal and time-to-event data.  I have also</td>
-      </tr>
-      <tr>
-        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line">  worked on mathematical statistics problems related to notions</td>
-      </tr>
-      <tr>
-        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line">  of exchangeability for survival processes as well as network</td>
-      </tr>
-      <tr>
-        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code blob-code-inner js-file-line">  modeling.  More recently, I have begun work on just-in-time</td>
-      </tr>
-      <tr>
-        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line">  adaptive interventions with applications in mHealth.</td>
-      </tr>
-      <tr>
-        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">section</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">section</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">h1</span>&gt; Bio &lt;/<span class="pl-ent">h1</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line">  I am a postdoctoral researcher in the</td>
-      </tr>
-      <tr>
-        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line">  &lt;<span class="pl-ent">a</span> <span class="pl-e">href</span>= <span class="pl-s"><span class="pl-pds">&quot;</span>http://www.lsa.umich.edu/stats<span class="pl-pds">&quot;</span></span>&gt; Department of Statistics</td>
-      </tr>
-      <tr>
-        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line">    at the University of Michigan &lt;/<span class="pl-ent">a</span>&gt;,</td>
-      </tr>
-      <tr>
-        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line">  starting August 2015.  Before my postdoc, I received my</td>
-      </tr>
-      <tr>
-        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line">  PhD in Statistics at the University of Chicago in 2015,</td>
-      </tr>
-      <tr>
-        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line">  advised by &lt;<span class="pl-ent">a</span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>http://galton.uchicago.edu/~pmcc<span class="pl-pds">&quot;</span></span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line">    Peter McCullagh &lt;/<span class="pl-ent">a</span>&gt;.</td>
-      </tr>
-      <tr>
-        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line">  Prior to graduate school, I worked in the Financial Strategy</td>
-      </tr>
-      <tr>
-        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line">  Group in the Investment Banking Division at Citi.</td>
-      </tr>
-      <tr>
-        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line">  </td>
-      </tr>
-      <tr>
-        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line">    </td>
-      </tr>
-      <tr>
-        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">section</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="LC51" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">&lt;!--</span> &lt;div class=&quot;posts&quot;&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  {% for post in paginator.posts %}</span></td>
-      </tr>
-      <tr>
-        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  &lt;div class=&quot;post&quot;&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td id="LC56" class="blob-code blob-code-inner js-file-line"><span class="pl-c">    &lt;h1 class=&quot;post-title&quot;&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
-        <td id="LC57" class="blob-code blob-code-inner js-file-line"><span class="pl-c">      &lt;a href=&quot;{{ site.baseurl }}/{{ post.url }}&quot;&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
-        <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class="pl-c">        {{ post.title }}</span></td>
-      </tr>
-      <tr>
-        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
-        <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class="pl-c">      &lt;/a&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
-        <td id="LC60" class="blob-code blob-code-inner js-file-line"><span class="pl-c">    &lt;/h1&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
-        <td id="LC61" class="blob-code blob-code-inner js-file-line"><span class="pl-c"></span></td>
-      </tr>
-      <tr>
-        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
-        <td id="LC62" class="blob-code blob-code-inner js-file-line"><span class="pl-c">    &lt;span class=&quot;post-date&quot;&gt;{{ post.date | date_to_string }}&lt;/span&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
-        <td id="LC63" class="blob-code blob-code-inner js-file-line"><span class="pl-c"></span></td>
-      </tr>
-      <tr>
-        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
-        <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class="pl-c">    {{ post.excerpt }}</span></td>
-      </tr>
-      <tr>
-        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
-        <td id="LC65" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  &lt;/div&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
-        <td id="LC66" class="blob-code blob-code-inner js-file-line"><span class="pl-c">  {% endfor %}</span></td>
-      </tr>
-      <tr>
-        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
-        <td id="LC67" class="blob-code blob-code-inner js-file-line"><span class="pl-c">&lt;/div&gt; <span class="pl-c">--&gt;</span></span></td>
-      </tr>
-      <tr>
-        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
-        <td id="LC68" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
-        <td id="LC69" class="blob-code blob-code-inner js-file-line">&lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>pagination<span class="pl-pds">&quot;</span></span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
-        <td id="LC70" class="blob-code blob-code-inner js-file-line">  {% if paginator.next_page %}</td>
-      </tr>
-      <tr>
-        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
-        <td id="LC71" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>pagination-item older<span class="pl-pds">&quot;</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>{{ site.baseurl }}/page{{paginator.next_page}}<span class="pl-pds">&quot;</span></span>&gt;Older&lt;/<span class="pl-ent">a</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
-        <td id="LC72" class="blob-code blob-code-inner js-file-line">  {% else %}</td>
-      </tr>
-      <tr>
-        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
-        <td id="LC73" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">span</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>pagination-item older<span class="pl-pds">&quot;</span></span>&gt;Older&lt;/<span class="pl-ent">span</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
-        <td id="LC74" class="blob-code blob-code-inner js-file-line">  {% endif %}</td>
-      </tr>
-      <tr>
-        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
-        <td id="LC75" class="blob-code blob-code-inner js-file-line">  {% if paginator.previous_page %}</td>
-      </tr>
-      <tr>
-        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
-        <td id="LC76" class="blob-code blob-code-inner js-file-line">    {% if paginator.page == 2 %}</td>
-      </tr>
-      <tr>
-        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
-        <td id="LC77" class="blob-code blob-code-inner js-file-line">      &lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>pagination-item newer<span class="pl-pds">&quot;</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>{{ site.baseurl }}/<span class="pl-pds">&quot;</span></span>&gt;Newer&lt;/<span class="pl-ent">a</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
-        <td id="LC78" class="blob-code blob-code-inner js-file-line">    {% else %}</td>
-      </tr>
-      <tr>
-        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
-        <td id="LC79" class="blob-code blob-code-inner js-file-line">      &lt;<span class="pl-ent">a</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>pagination-item newer<span class="pl-pds">&quot;</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>{{ site.baseurl }}/page{{paginator.previous_page}}<span class="pl-pds">&quot;</span></span>&gt;Newer&lt;/<span class="pl-ent">a</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
-        <td id="LC80" class="blob-code blob-code-inner js-file-line">    {% endif %}</td>
-      </tr>
-      <tr>
-        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
-        <td id="LC81" class="blob-code blob-code-inner js-file-line">  {% else %}</td>
-      </tr>
-      <tr>
-        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
-        <td id="LC82" class="blob-code blob-code-inner js-file-line">    &lt;<span class="pl-ent">span</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">&quot;</span>pagination-item newer<span class="pl-pds">&quot;</span></span>&gt;Newer&lt;/<span class="pl-ent">span</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
-        <td id="LC83" class="blob-code blob-code-inner js-file-line">  {% endif %}</td>
-      </tr>
-      <tr>
-        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
-        <td id="LC84" class="blob-code blob-code-inner js-file-line">&lt;/<span class="pl-ent">div</span>&gt;</td>
-      </tr>
-      <tr>
-        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
-        <td id="LC85" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
+  <th>title</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>page</div></td>
+
+  <td><div>Research</div></td>
+  </tr>
+  </tbody>
 </table>
 
+<h3><a id="user-content-in-preparation--manuscripts" class="anchor" href="#in-preparation--manuscripts" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>In Preparation / Manuscripts</h3>
+<ul>
+<li>W. Dempsey, P. Liao, S. Murphy: Sample size calculations for stratified micro-randomized trials in mHealth</li>
+<li>W. Dempsey, A. Moreno, J. Rehg, S. Murphy: The survival HMM: an intrepretable, multimodal event-prediction model for mHealth</li>
+<li>H. Crane, Dempsey, W.: <a href="https://www.researchgate.net/publication/305616246_Relational_exchangeability">Relational exchangeability</a></li>
+</ul>
+<h3><a id="user-content-submitted-papers" class="anchor" href="#submitted-papers" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Submitted Papers</h3>
+<ul>
+<li>H. Crane, Dempsey, W.: <a href="https://www.researchgate.net/publication/299091392_Edge_exchangeable_models_for_network_data">Edge exchangeable models for network data</a></li>
+<li>H. Crane, Dempsey, W.: <a href="https://www.researchgate.net/publication/296349606_A_FRAMEWORK_FOR_STATISTICAL_NETWORK_MODELING">A Framework for Statistical Network Modeling</a></li>
+<li>W. Dempsey, P. McCullagh: <a href="https://www.researchgate.net/publication/269116563_The_pilgrim_process">The Pilgrim's Process</a></li>
+<li>W. Dempsey, P. McCullagh: <a href="https://www.researchgate.net/publication/268689765_Weak_continuity_of_predictive_distribution_for_Markov_survival_processes">Weak continuity of predictive distribution for Markov survival processes</a>. Code available <a href="https://github.com/wdempsey/markov_survival">here</a></li>
+<li>W. Dempsey, P. McCullagh: <a href="https://www.researchgate.net/publication/305904290_Survival_models_and_health_sequences">Survival models and health sequences</a> . Code available <a href="https://github.com/wdempsey/revival_paper">here</a></li>
+<li>W. Dempsey, P. McCullagh: <a href="https://www.researchgate.net/publication/291437405_Vital_variables_and_survival_processes">Vital variables and survival processes</a></li>
+</ul>
+<h3><a id="user-content-accepted-papers" class="anchor" href="#accepted-papers" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Accepted Papers</h3>
+<ul>
+<li>R. Kondor, W. Dempsey: <a href="https://papers.nips.cc/paper/4720-multiresolution-analysis-on-the-symmetric-group.pdf">Multiresolution analysis on the symmetric group</a> (NIPS 2012)
+<ul>
+<li><a href="http://people.cs.uchicago.edu/%7Erisi/papers/KondorDempseyNIPS2012supp.pdf">Supplemental Material</a></li>
+</ul>
+</li>
+<li>W. Dempsey, P. Liao, P. Klasnja, I. Nahum-Shani, S. Murphy: <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2015.00863.x/abstract">Randomized trials for the fitbit generation</a> (Significance 2015)</li>
+</ul>
+<h3><a id="user-content-technical-reports" class="anchor" href="#technical-reports" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Technical Reports</h3>
+<ul>
+<li>H. Crane, Dempsey, W.: <a href="http://arxiv.org/abs/1509.08184">Atypical scaling behavior persists in real world interaction networks</a></li>
+<li>H. Crane, Dempsey, W.: <a href="http://arxiv.org/abs/1509.09254">Community detection for interaction networks</a></li>
+</ul>
+</article>
   </div>
 
   </div>
@@ -1031,7 +721,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.22716s from github-fe-8320e0c.cp1-iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.26717s from unicorn-1532880970-6s3r4">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
