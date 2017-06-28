@@ -26,9 +26,7 @@ title: Publications
 - K. Greenewald and A. Hero: [Robust Kronecker Product PCA for Spatio-Temporal Covariance Estimation]() (IEEE Transactions on Signal Processing 2015).
 
 
--  R. Kondor, W. Dempsey: [Multiresolution analysis on the symmetric group](https://papers.nips.cc/paper/4720-multiresolution-analysis-on-the-symmetric-group.pdf) (NIPS 2012)
-    - [Supplemental Material](http://people.cs.uchicago.edu/~risi/papers/KondorDempseyNIPS2012supp.pdf)
--  W. Dempsey, P. Liao, P. Klasnja, I. Nahum-Shani, S. Murphy: [Randomized trials for the fitbit generation](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2015.00863.x/abstract) (Significance 2015)
+
 
 ### Conference Proceedings
 - K. Greenewald, S. Kelley, and A. Hero: [Dynamic metric learning from pairwise comparisons]() (54th Annual Allerton Conference on Communication, Control, and Computing 2016) (invited). 
