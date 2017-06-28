@@ -5,18 +5,18 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Walter Dempsey
-tagline:             ' Statistican / Data Scientist'
+title:               Kristjan Greenewald
+tagline:             ' Data Scientist '
 description:         'A postdoctoral researcher in the <a href="http://dept.stat.lsa.umich.edu/~samurphy/nida/overview.html" target="_blank">Statistical Reinforcement Lab</a> at the University of Michigan <a href="http://dept.stat.lsa.umich.edu/" target="_blank">Statistics department</a>.'
-url:                 http://plusthemonk.github.io
+url:                 http://kgreenewald.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Walter Dempsey
-  url:               https://github.com/PlusTheMonk
-  email:             dempsey.walter@gmail.com
+  name:              Kristjan Greenewald
+  url:               https://github.com/kgreenewald
+  email:             greenewk@umich.edu
 
 # Custom vars
 version:             1.0.0
