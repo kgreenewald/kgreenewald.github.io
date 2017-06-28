@@ -15,10 +15,10 @@ title: Presentations
 -  [Survival models and health sequences](https://drive.google.com/file/d/0B5rDVdyXJbJgNWJ4bm5ZMEg5cVE/view?usp=sharing) ([Workshop](www2.warwick.ac.uk/fac/sci/statistics/crism/workshops/fmlsjd/) at the University of Warwick, July 2015)
 
 
--Dynamic Metric Learning from Pairwise Comparisons, given with variations at:
---University of Michigan, Graduate Student Statistical Topics Seminar Series, November 2016.
---University of Michigan, Michigan Student Symposium for Interdisciplinary Statistical Sciences, March 2016.
---MIT Lincoln Laboratory, Lexington, MA July 2015.
+- Dynamic Metric Learning from Pairwise Comparisons, given with variations at:
+  - University of Michigan, Graduate Student Statistical Topics Seminar Series, November 2016.
+  - University of Michigan, Michigan Student Symposium for Interdisciplinary Statistical Sciences, March 2016.
+  - MIT Lincoln Laboratory, Lexington, MA July 2015.
 
 
 
