@@ -15,7 +15,7 @@ title: Presentations
 
 
 
-- Robust Kronecker STAP for Multichannel SAR, given at:
+- Robust Kronecker Space Time Adaptive Processing for Multichannel Synthetic Aperture Radar, given at:
   - ATR Center Workshop, Wright State University, Dayton, OH, Aug. 2016.
 
 - Robust Kronecker Product PCA for Spatio-Temporal Covariance Estimation, given with variations at:
