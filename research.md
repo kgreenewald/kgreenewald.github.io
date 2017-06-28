@@ -55,7 +55,7 @@ Kronecker Product Expansions]() (IEEE Workshop on Statistical Signal Processing 
 
 ### Technical Reports
 
-- K. Moon, K. Sricharan, K. Greenewald, and A. Hero: [Nonparametric Ensemble Estimation of Distributional Functionals] arXiv arXiv:1601.06884.
+- K. Moon, K. Sricharan, K. Greenewald, and A. Hero: [Nonparametric Ensemble Estimation of Distributional Functionals]() arXiv arXiv:1601.06884.
 
 
 
