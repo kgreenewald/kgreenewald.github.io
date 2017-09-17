@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Kristjan Greenewald
 tagline:             ' Data Scientist '
-description:         'A postdoctoral researcher in the <a href="http://dept.stat.lsa.umich.edu/~samurphy/nida/overview.html" target="_blank">Statistical Reinforcement Lab</a> at the University of Michigan <a href="http://dept.stat.lsa.umich.edu/" target="_blank">Statistics department</a>.'
+description:         'A postdoctoral researcher at the Harvard University <a href="http://statistics.fas.harvard.edu/" target="_blank">Statistics department</a>.'
 url:                 http://kgreenewald.github.io
 baseurl:             ''
 paginate:            5
@@ -16,7 +16,7 @@ paginate:            5
 author:
   name:              Kristjan Greenewald
   url:               https://github.com/kgreenewald
-  email:             greenewk@umich.edu
+  email:             kgreenewald@fas.harvard.edu
 
 # Custom vars
 version:             1.0.0
