@@ -6,13 +6,13 @@ title: Publications
 
 
 ### Submitted Papers
-- K. Greenewald, S. Zhou, A. Hero: [Tensor Graphical Lasso (TeraLasso)]() Submitted to JRSS Series B, 2017.
+- K. Greenewald, S. Zhou, A. Hero: [Tensor Graphical Lasso (TeraLasso)]() Under revision at JRSS Series B, 2017.
 
-- K. Greenewald, A. Tewari, P. Klesnja, S. Murphy: [Action Centered Contextual Bandits]() Submitted to NIPS, 2017.
+- K. Greenewald, A. Tewari, P. Klesnja, S. Murphy: [Action Centered Contextual Bandits]() To appear NIPS, 2017.
 
-- K. Greenewald, S. Park, A. Giessing, and S. Zhou: [Time-Varying Matrix-Variate Graphical Models]() Submitted to NIPS, 2017. 
+- K. Greenewald, S. Park, A. Giessing, and S. Zhou: [Time-Varying Matrix-Variate Graphical Models]() To appear NIPS, 2017. 
 
-- K. Greenewald, S. Kelley, B. Oselio, and A. Hero: [Similarity Function Tracking Using Pairwise Comparisons]() Under revision at IEEE Transactions on Signal Processing, available as arXiv 1701.02804, 2017. 
+- K. Greenewald, S. Kelley, B. Oselio, and A. Hero: [Similarity Function Tracking Using Pairwise Comparisons]() IEEE Transactions on Signal Processing, 2017. 
 
 
 
