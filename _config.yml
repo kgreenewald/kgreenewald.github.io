@@ -6,8 +6,8 @@ permalink:           pretty
 
 # Setup
 title:               Kristjan Greenewald
-tagline:             ' Data Scientist '
-description:         'A postdoctoral researcher at the Harvard University <a href="http://statistics.fas.harvard.edu/" target="_blank">Statistics department</a>.'
+tagline:             ' Research Scientist '
+description:         'A research scientist at the MIT-IBM Watson AI Lab.'
 url:                 http://kgreenewald.github.io
 baseurl:             ''
 paginate:            5
@@ -16,7 +16,7 @@ paginate:            5
 author:
   name:              Kristjan Greenewald
   url:               https://github.com/kgreenewald
-  email:             kgreenewald@fas.harvard.edu
+  email:             kristjan.h.greenewald@ibm.com
 
 # Custom vars
 version:             1.0.0
