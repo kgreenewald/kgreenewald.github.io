@@ -2,8 +2,9 @@
 layout: page
 title: Publications
 ---
+<a> href= "https://scholar.google.com/citations?user=L3zNUG4AAAAJ&hl=en&oi=ao" Google Scholar page<a/>
 
-(to be updated)
+(list below to be updated)
 
 ### Submitted Papers
 
@@ -18,6 +19,8 @@ title: Publications
 ### Journal Publications
 - K. Greenewald, S. Zhou, A. Hero: [Tensor Graphical Lasso (TeraLasso)]() JRSS Series B, 2019.
 
+- K. Moon, K. Sricharan, K. Greenewald, and A. Hero, [Ensemble Estimation of Information Divergence]() Entropy, 2018.
+
 - K. Greenewald, S. Kelley, B. Oselio, and A. Hero: [Similarity Function Tracking Using Pairwise Comparisons]() IEEE Transactions on Signal Processing, 2017. 
 
 - K. Greenewald, E. Zelnio, and A. Hero: [Robust SAR STAP via Kronecker decomposition]() (IEEE Transactions on Aerospace and Electronic Systems 2017).
@@ -28,6 +31,12 @@ title: Publications
 
 
 ### Conference Proceedings
+- Z. Goldfeld, E. Van den Berg, K. Greenewald, B. Kingsbury, I. Melnyk, N. Nguyen, and Y. Polyanskiy, [Estimating Information Flow in DNNs]() ICML, 2019.
+
+- M. Yurochkin,  M. Agarwal,  S. Ghosh,  K. Greenewald,  N. Hoang,  and Y. Khazaeni, [Bayesian Non-parametric Federated Learning of Neural Networks]() ICML, 2019.
+
+- Z.  Goldfeld,  K.  Greenewald,  J.  Weed,  and  Y.  Polyanskiy, [Optimality of the Plug-in  Estimator for Differential  Entropy Estimation under Gaussian Convolutions]() IEEE International Symposium on Information Theory, 2019.
+
 - K. Greenewald, A. Tewari, P. Klesnja, S. Murphy: [Action Centered Contextual Bandits]() NIPS, 2017.
 
 - K. Greenewald, S. Park, A. Giessing, and S. Zhou: [Time-Varying Matrix-Variate Graphical Models]() NIPS, 2017. 
