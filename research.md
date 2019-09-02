@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 ---
-[Google Scholar page]("https://scholar.google.com/citations?user=L3zNUG4AAAAJ&hl=en&oi=ao")
 
 <a href="https://scholar.google.com/citations?user=L3zNUG4AAAAJ&hl=en&oi=ao"> Google Scholar page<a/>
 
