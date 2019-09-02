@@ -3,16 +3,11 @@ layout: page
 title: Publications
 ---
 
-
+(to be updated)
 
 ### Submitted Papers
-- K. Greenewald, S. Zhou, A. Hero: [Tensor Graphical Lasso (TeraLasso)]() Under revision at JRSS Series B, 2017.
 
-- K. Greenewald, A. Tewari, P. Klesnja, S. Murphy: [Action Centered Contextual Bandits]() To appear NIPS, 2017.
 
-- K. Greenewald, S. Park, A. Giessing, and S. Zhou: [Time-Varying Matrix-Variate Graphical Models]() To appear NIPS, 2017. 
-
-- K. Greenewald, S. Kelley, B. Oselio, and A. Hero: [Similarity Function Tracking Using Pairwise Comparisons]() IEEE Transactions on Signal Processing, 2017. 
 
 
 
@@ -21,6 +16,10 @@ title: Publications
 
 
 ### Journal Publications
+- K. Greenewald, S. Zhou, A. Hero: [Tensor Graphical Lasso (TeraLasso)]() JRSS Series B, 2019.
+
+- K. Greenewald, S. Kelley, B. Oselio, and A. Hero: [Similarity Function Tracking Using Pairwise Comparisons]() IEEE Transactions on Signal Processing, 2017. 
+
 - K. Greenewald, E. Zelnio, and A. Hero: [Robust SAR STAP via Kronecker decomposition]() (IEEE Transactions on Aerospace and Electronic Systems 2017).
 
 - K. Greenewald and A. Hero: [Robust Kronecker Product PCA for Spatio-Temporal Covariance Estimation]() (IEEE Transactions on Signal Processing 2015).
@@ -29,6 +28,11 @@ title: Publications
 
 
 ### Conference Proceedings
+- K. Greenewald, A. Tewari, P. Klesnja, S. Murphy: [Action Centered Contextual Bandits]() NIPS, 2017.
+
+- K. Greenewald, S. Park, A. Giessing, and S. Zhou: [Time-Varying Matrix-Variate Graphical Models]() NIPS, 2017. 
+
+
 - K. Greenewald, S. Kelley, and A. Hero: [Dynamic metric learning from pairwise comparisons]() (54th Annual Allerton Conference on Communication, Control, and Computing 2016) (invited). 
 
 - K. Moon, K. Sricharan, K. Greenewald, and A. Hero: [Improving Convergence of Divergence Functional Ensemble Estimators]() (IEEE International Symposium on Information Theory 2016).
