@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-<a> href="https://scholar.google.com/citations?user=L3zNUG4AAAAJ&hl=en&oi=ao"> Google Scholar page<a/>
+<a href="https://scholar.google.com/citations?user=L3zNUG4AAAAJ&hl=en&oi=ao"> Google Scholar page<a/>
 
 (list below to be updated)
 
