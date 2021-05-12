@@ -38,18 +38,18 @@ title: Publications
 ### Conference Proceedings
 - G. Beugnot, A. Genevay, J. Solomon, and K. Greenewald, [Efficient Stochastic Approximation of Optimal Transport Distances]() Uncertainty in Artificial Intelligence (UAI), 2021.
 
--K. Greenewald, K. Shanmugam, and D. Katz-Rogozhnikov, [High-Dimensional Feature Selection for Sample Efficient Treatment Effect Estimation]() AISTATS, 2021.
+- K. Greenewald, K. Shanmugam, and D. Katz-Rogozhnikov, [High-Dimensional Feature Selection for Sample Efficient Treatment Effect Estimation]() AISTATS, 2021.
 
--Z. Goldfeld, K. Greenewald, and K. Kato, [Asymptotic Guarantees for Generative Modeling based on the Smooth Wasserstein Distance]() NeurIPS, 2020.
+- Z. Goldfeld, K. Greenewald, and K. Kato, [Asymptotic Guarantees for Generative Modeling based on the Smooth Wasserstein Distance]() NeurIPS, 2020.
 
--S. Compton, M. Kocaoglu, K. Greenewald, and D. Katz, [Entropic Causal Inference:  Identifiability and
+- S. Compton, M. Kocaoglu, K. Greenewald, and D. Katz, [Entropic Causal Inference:  Identifiability and
 Finite Sample Results]() NeurIPS, 2020.
 
--C. Squires, S. Magliacane, K. Greenewald, D. Katz, M. Kocaoglu, and K. Shanmugam, [Active Structure Learning of Causal DAGs via Directed Clique Trees]() NeurIPS, 2020.
+- C. Squires, S. Magliacane, K. Greenewald, D. Katz, M. Kocaoglu, and K. Shanmugam, [Active Structure Learning of Causal DAGs via Directed Clique Trees]() NeurIPS, 2020.
 
--Z. Goldfeld, K. Greenewald, and Y. Polyanskiy, [Gaussian Smoothed Optimal Transport: Metric Structure and Statistical Efficiency]() AISTATS, 2020.
+- Z. Goldfeld, K. Greenewald, and Y. Polyanskiy, [Gaussian Smoothed Optimal Transport: Metric Structure and Statistical Efficiency]() AISTATS, 2020.
 
--K. Greenewald, D. Katz, M. Kocaoglu, K. Shanmugam, S. Magliacane, G. Bresler, E. Boix, [Sample Efficient Active Learning of Causal Trees]() NeurIPS, 2019.
+- K. Greenewald, D. Katz, M. Kocaoglu, K. Shanmugam, S. Magliacane, G. Bresler, E. Boix, [Sample Efficient Active Learning of Causal Trees]() NeurIPS, 2019.
 
 
 - Z. Goldfeld, E. Van den Berg, K. Greenewald, B. Kingsbury, I. Melnyk, N. Nguyen, and Y. Polyanskiy, [Estimating Information Flow in DNNs]() ICML, 2019.
@@ -87,9 +87,7 @@ Kronecker Product Expansions]() (IEEE Workshop on Statistical Signal Processing 
 - K. Greenewald: [Prediction of Optimal Bayesian Classification Performance for LADAR ATR]() MS Thesis, Wright State University, August 2012.
 
 
-### Technical Reports
 
-- K. Moon, K. Sricharan, K. Greenewald, and A. Hero: [Nonparametric Ensemble Estimation of Distributional Functionals]() arXiv arXiv:1601.06884.
 
 
 
