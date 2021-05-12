@@ -18,6 +18,10 @@ title: Publications
 
 
 ### Journal Publications
+- Z. Goldfeld, K. Greenewald, J. Weed, and Y. Polyanskiy, [Convergence of Smoothed Empirical Measures With Applications to Entropy Estimation]() IEEE Transactions on Information Theory, 2020.
+
+- P. Liao, K. Greenewald, P. Klasnja, and S. Murphy, [Personalized HeartSteps: A Reinforcement Learning Algorithm for Optimizing Physical Activity]() Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2020.
+
 - K. Greenewald, S. Zhou, A. Hero: [Tensor Graphical Lasso (TeraLasso)]() JRSS Series B, 2019.
 
 - K. Moon, K. Sricharan, K. Greenewald, and A. Hero, [Ensemble Estimation of Information Divergence]() Entropy, 2018.
@@ -32,6 +36,22 @@ title: Publications
 
 
 ### Conference Proceedings
+- G. Beugnot, A. Genevay, J. Solomon, and K. Greenewald, [Efficient Stochastic Approximation of Optimal Transport Distances]() Uncertainty in Artificial Intelligence (UAI), 2021.
+
+-K. Greenewald, K. Shanmugam, and D. Katz-Rogozhnikov, [High-Dimensional Feature Selection for Sample Efficient Treatment Effect Estimation]() AISTATS, 2021.
+
+-Z. Goldfeld, K. Greenewald, and K. Kato, [Asymptotic Guarantees for Generative Modeling based on the Smooth Wasserstein Distance]() NeurIPS, 2020.
+
+-S. Compton, M. Kocaoglu, K. Greenewald, and D. Katz, [Entropic Causal Inference:  Identifiability and
+Finite Sample Results]() NeurIPS, 2020.
+
+-C. Squires, S. Magliacane, K. Greenewald, D. Katz, M. Kocaoglu, and K. Shanmugam, [Active Structure Learning of Causal DAGs via Directed Clique Trees]() NeurIPS, 2020.
+
+-Z. Goldfeld, K. Greenewald, and Y. Polyanskiy, [Gaussian Smoothed Optimal Transport: Metric Structure and Statistical Efficiency]() AISTATS, 2020.
+
+-K. Greenewald, D. Katz, M. Kocaoglu, K. Shanmugam, S. Magliacane, G. Bresler, E. Boix, [Sample Efficient Active Learning of Causal Trees]() NeurIPS, 2019.
+
+
 - Z. Goldfeld, E. Van den Berg, K. Greenewald, B. Kingsbury, I. Melnyk, N. Nguyen, and Y. Polyanskiy, [Estimating Information Flow in DNNs]() ICML, 2019.
 
 - M. Yurochkin,  M. Agarwal,  S. Ghosh,  K. Greenewald,  N. Hoang,  and Y. Khazaeni, [Bayesian Non-parametric Federated Learning of Neural Networks]() ICML, 2019.
