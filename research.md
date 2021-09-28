@@ -5,16 +5,16 @@ title: Publications
 
 <a href="https://scholar.google.com/citations?user=L3zNUG4AAAAJ&hl=en&oi=ao"> Google Scholar page<a/>
 
-(list below to be updated)
+(for most recent listing check Google Scholar page)
 
 
 
 
 
 ### Journal Publications
-- Z. Goldfeld, K. Greenewald, J. Weed, and Y. Polyanskiy, [Convergence of Smoothed Empirical Measures With Applications to Entropy Estimation]() IEEE Transactions on Information Theory, 2020.
+- Z. Goldfeld, K. Greenewald, J. Weed, and Y. Polyanskiy, [Convergence of Smoothed Empirical Measures With Applications to Entropy Estimation](https://ieeexplore.ieee.org/abstract/document/9005175) IEEE Transactions on Information Theory, 2020.
 
-- P. Liao, K. Greenewald, P. Klasnja, and S. Murphy, [Personalized HeartSteps: A Reinforcement Learning Algorithm for Optimizing Physical Activity]() Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2020.
+- P. Liao, K. Greenewald, P. Klasnja, and S. Murphy, [Personalized HeartSteps: A Reinforcement Learning Algorithm for Optimizing Physical Activity](https://dl.acm.org/doi/abs/10.1145/3381007) Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2020.
 
 - K. Greenewald, S. Zhou, A. Hero: [Tensor Graphical Lasso (TeraLasso)]() JRSS Series B, 2019.
 
